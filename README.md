@@ -40,23 +40,31 @@ A modern, production-ready starter kit with role-based authentication, Google OA
 
 ## 📸 Screenshots
 
+### Welcome Page
+
+![Welcome Page](.github/screenshots/Welcome%20-%20App%20Name.jpeg)
+
+Clean landing page with modern design, featuring dark mode support and responsive layout.
+
+---
+
 ### Authentication
 
-<details>
-<summary>Login Page</summary>
+#### Login Page
 
 ![Login Page](.github/screenshots/Log%20in%20-%20App%20Name.jpeg)
 
 **Features:**
 - Email/password login
-- Google OAuth integration
+- Google OAuth integration ("Continue with Google" button)
 - Remember me option
 - Password reset link
 - Registration link
-</details>
+- Clean, modern UI with form validation
 
-<details>
-<summary>Register Page</summary>
+---
+
+#### Register Page
 
 ![Register Page](.github/screenshots/Register%20-%20App%20Name.jpeg)
 
@@ -64,40 +72,49 @@ A modern, production-ready starter kit with role-based authentication, Google OA
 - First name and last name fields
 - Email validation
 - Password strength requirements
-- Terms acceptance
-- Direct link to login
-</details>
+- Confirm password field
+- Direct link to login page
+- Responsive form design
+
+---
 
 ### Admin Dashboard
 
-<details>
-<summary>Dashboard (Admin)</summary>
-
 ![Dashboard](.github/screenshots/Dashboard%20-%20App%20Name.jpeg)
 
-**Admin Navigation:**
-- Dashboard
-- Manage Users
-- Violations
-- Folders
-- Roles & Permissions
-- Audit Trails
-- Settings
-</details>
+**Admin Interface Features:**
 
-### User Management
+**Sidebar Navigation (Main Menu):**
+- Dashboard - Overview and statistics
+- Manage Users - User management interface
+- Violations - Violations tracking system
+- Folders - File and folder management
 
-<details>
-<summary>Profile Settings</summary>
+**Administration Section:**
+- Roles & Permissions - Role-based access control
+- Audit Trails - System activity logging
+- Settings - System configuration
+
+**Dashboard Content:**
+- Clean placeholder layout ready for customization
+- Empty state design
+- Responsive grid system
+
+---
+
+### Profile Management
 
 ![Profile Settings](.github/screenshots/Profile%20settings%20-%20App%20Name.jpeg)
 
-**Features:**
-- Update personal information
-- Upload profile photo
+**Profile Settings Features:**
+- Update first name and last name
 - Change email address
-- View account details
-</details>
+- Upload profile photo (stored securely in private storage)
+- View account creation date
+- Responsive form layout
+- Real-time validation
+
+**Available to both Admin and User roles**
 
 ---
 
